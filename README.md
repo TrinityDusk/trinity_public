@@ -9,3 +9,30 @@ assets and stuff
 
 #EYES
 ![](https://raw.githubusercontent.com/TrinityDusk/trinity_public/610bd281b2018c47e1ecbd6d0db371acd89276f5/EYES.gif)
+
+#M Default
+![](https://raw.githubusercontent.com/TrinityDusk/trinity_public/610bd281b2018c47e1ecbd6d0db371acd89276f5/M%20Default.gif)
+
+#M Tail
+![](https://raw.githubusercontent.com/TrinityDusk/trinity_public/610bd281b2018c47e1ecbd6d0db371acd89276f5/M%20Tail.gif)
+
+#M Eyes
+![](https://raw.githubusercontent.com/TrinityDusk/trinity_public/610bd281b2018c47e1ecbd6d0db371acd89276f5/M%20Eyes.gif)
+
+#M Tail + Eyes
+![](https://raw.githubusercontent.com/TrinityDusk/trinity_public/610bd281b2018c47e1ecbd6d0db371acd89276f5/M%20Tail%20+%20Eyes.gif)
+
+#F Default
+![](https://raw.githubusercontent.com/TrinityDusk/trinity_public/610bd281b2018c47e1ecbd6d0db371acd89276f5/F%20Default.gif)
+
+#F Tail
+![](https://raw.githubusercontent.com/TrinityDusk/trinity_public/610bd281b2018c47e1ecbd6d0db371acd89276f5/F%20Tail.gif)
+
+#F Eyes
+![](https://raw.githubusercontent.com/TrinityDusk/trinity_public/610bd281b2018c47e1ecbd6d0db371acd89276f5/F%20Eyes.gif)
+
+#F Tail + Eyes
+![](https://raw.githubusercontent.com/TrinityDusk/trinity_public/610bd281b2018c47e1ecbd6d0db371acd89276f5/F%20Tail%20+%20Eyes.gif)
+
+#PHYSICS
+![](https://raw.githubusercontent.com/TrinityDusk/trinity_public/610bd281b2018c47e1ecbd6d0db371acd89276f5/PHYSICS.gif)
