@@ -5,7 +5,7 @@ assets and stuff
 ![](https://raw.githubusercontent.com/TrinityDusk/trinity_public/a23dc53970fb3ecc686a6e4e0af2a78d342ee527/CAMO%20SUPPORT%20ALL.gif)
 
 #CAMO SUPPORT
-![](https://raw.githubusercontent.com/TrinityDusk/trinity_public/a23dc53970fb3ecc686a6e4e0af2a78d342ee527/CAMO%20SUPPORT%20ALL.gif)
+![](https://raw.githubusercontent.com/TrinityDusk/trinity_public/610bd281b2018c47e1ecbd6d0db371acd89276f5/CAMO%20SUPPORT.gif)
 
 #EYES
-![](https://raw.githubusercontent.com/TrinityDusk/trinity_public/a23dc53970fb3ecc686a6e4e0af2a78d342ee527/CAMO%20SUPPORT%20ALL.gif)
+![](https://raw.githubusercontent.com/TrinityDusk/trinity_public/610bd281b2018c47e1ecbd6d0db371acd89276f5/EYES.gif)
