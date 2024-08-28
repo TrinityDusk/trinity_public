@@ -25,6 +25,10 @@ assets and stuff
 #F Default
 ![](https://raw.githubusercontent.com/TrinityDusk/trinity_public/610bd281b2018c47e1ecbd6d0db371acd89276f5/F%20Default.gif)
 
+
+![BANNER](https://github.com/user-attachments/assets/091659dc-34c0-4821-9c56-5ce797684ca9)
+
+
 #F Tail
 ![](https://raw.githubusercontent.com/TrinityDusk/trinity_public/610bd281b2018c47e1ecbd6d0db371acd89276f5/F%20Tail.gif)
 
